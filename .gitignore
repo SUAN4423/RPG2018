@@ -1,0 +1,36 @@
+.DS_Store### https://raw.github.com/github/gitignore/9139ad597b05354da689b19ce805c389252a6b8b/Java.gitignore
+
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# files for OS
+.DS_Store
+
+# eclipse Files
+.metadata
+.recommenders
+RemoteSystemsTempFiles
+.settings
+bin
+.project
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+
+#ClassPass Eclipse
+.classpath
